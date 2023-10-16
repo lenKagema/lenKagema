@@ -47,7 +47,7 @@ I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white])](https://www.linkedin.com/in/lenin-kagema-96b20b257/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kagema-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lenin-kagema-96b20b257/)
 
 - 🔭 I’m currently working on building web applications
 
