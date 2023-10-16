@@ -30,7 +30,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVjdzNrc2I1MHVlcXlkemtya2
   </div>
   <img src="https://komarev.com/ghpvc/?username=lenKagema&style=flat-square&color=blue" alt="Github Page"/>
   <h1>
-    Hey there, my name is Lenin Kagema
+    Hey there, my name is Lenin Kagema 👋
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -38,6 +38,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVjdzNrc2I1MHVlcXlkemtya2
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
 ### :man_technologist: About Me :
@@ -47,6 +48,13 @@ I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lenin-kagema-96b20b257/)
+
+- 🔭 I’m currently working on building web applications
+
+- 🌱 I’m currently learning PHP
+
+- 🤔 I’m looking for mentorship on web and software development
+
 
 ---
 
