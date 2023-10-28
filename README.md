@@ -51,7 +51,7 @@ I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - 🔭 I’m currently working on building web applications
 
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning TypeScript
 
 - 🤔 I’m looking for mentorship on web and software development
 
